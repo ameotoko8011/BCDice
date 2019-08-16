@@ -17,7 +17,7 @@ class YggVR < DiceBot
   end
   
   def gameType
-    "YggVR"
+    return "YggVR"
   end
   
   def getHelpMessage
@@ -868,5 +868,4 @@ MESSAGETEXT
     ]
     return get_table_by_d66(table)
   end
-  
 end
