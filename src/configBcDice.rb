@@ -189,5 +189,7 @@ Warhammer
 WitchQuest
 WorldOfDarkness
 YankeeYogSothoth
+Yugudora
+YggVR
 ZettaiReido
 }
